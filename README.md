@@ -13,3 +13,5 @@ IOT Application Development,IOT Cloud Platform
 
 
 PROJECT WORKING VIDEO : https://youtu.be/9PoEhKslS3w
+
+Internship feedback video link : https://drive.google.com/file/d/1TKi7k5jr7X4fm7MV8peXnX3p2Jm3aKqu/view
